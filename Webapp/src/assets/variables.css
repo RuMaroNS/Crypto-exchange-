@@ -1,0 +1,11 @@
+:root {
+  --base-background-color: #171b36;
+  --block-background-color: #1e2949;
+  --price-positive-change: #2ce99a;
+  --price-negative-change: #e34040;
+  --button-background-color: #04a2fd;
+  --currency-color: #04a2fd;
+  --icon-backgroud-color: #1e2949;
+  --base-gradient: linear-gradient(90deg, #6845e9 0%, #00a5fd 100%);
+  --secondary-text-color: #b1c1d2;
+}
